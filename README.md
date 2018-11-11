@@ -9,4 +9,4 @@ Thực hiện bởi [Lê Đức Thắng](https://github.com/daumarauxanh97)
 
 ## Liên kết
 
-plugin(https://daumarauxanh97.github.io/plugin/jquery_plugin/plugin.html)
+- [plugin](https://daumarauxanh97.github.io/plugin/jquery_plugin/plugin.html)
