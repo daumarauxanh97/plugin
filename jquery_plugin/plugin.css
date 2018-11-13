@@ -1,5 +1,19 @@
 /* Layout styles */
-
+/*.class1{
+ position: absolute;
+ top: 10px;
+}
+.class2{
+ position: fixed;
+ top: 10px;
+}
+.class3{
+ position: absolute;
+ bottom:  10px;
+}*/
+body{
+    margin:0px auto;
+}
 .wraper {
   width: 100%;
   color: #fff;
@@ -33,6 +47,7 @@
 }
 
 .bg-yellow {
+  position: relative;
   background-color: yellow;
 }
 
